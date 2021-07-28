@@ -1,0 +1,61 @@
+[{
+    "name": "w3school 在线教程",
+    "url": "https://www.w3school.com.cn/",
+    "dec": "全球最大的中文 Web 技术教程。",
+    "img": "https://www.w3school.com.cn/ui2019/logo-48-red.png",
+    "nature": "web技术"
+}, {
+    "name": "Bootstrap中文网",
+    "url": "https://www.bootcss.com/",
+    "dec": "Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
+    "img": "https://cdn.jsdelivr.net/npm/@bootcss/www.bootcss.com@0.0.49/dist/ico/favicon.ico",
+    "nature": "web技术"
+}, {
+    "name": "GitHub",
+    "url": "https://github.com/",
+    "dec": "GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
+    "img": "https://github.githubassets.com/pinned-octocat.svg",
+    "nature": "灵感素材"
+}, {
+    "name": "掘金 - 代码不止，掘金不停",
+    "url": "https://juejin.cn/",
+    "dec": "掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货,其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时,掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户,我们相信你也可以在这里有所收获。",
+    "img": "https://juejin.cn/favicons/favicon-32x32.png",
+    "nature": "灵感素材"
+}, {
+    "name": "CSDN - 专业开发者社区",
+    "url": "https://www.csdn.net/",
+    "dec": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区.",
+    "img": "https://g.csdnimg.cn/static/logo/favicon32.ico",
+    "nature": "灵感素材"
+}, {
+    "name": "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台",
+    "url": "https://leetcode-cn.com/",
+    "dec": "备战技术面试？力扣提供海量技术面试资源，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。",
+    "img": "https://static.leetcode-cn.com/cn-mono-assets/production/assets/favicon-notification-16x16.123721dc.png",
+    "nature": "灵感素材"
+}, {
+    "name": "OSCHINA - 中文开源技术交流社区",
+    "url": "https://www.oschina.net/",
+    "dec": "OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台",
+    "img": "https://static.oschina.net/new-osc/img/favicon.ico",
+    "nature": "灵感素材"
+}, {
+    "name": "Gitee - 基于 Git 的代码托管和研发协作平台",
+    "url": "https://gitee.com/",
+    "dec": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。",
+    "img": "https://assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico",
+    "nature": "灵感素材"
+}, {
+    "name": "博客园 - 开发者的网上家园",
+    "url": "https://www.cnblogs.com/",
+    "dec": "博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。。",
+    "img": "https://common.cnblogs.com/favicon.svg",
+    "nature": "灵感素材"
+}, {
+    "name": "稿定设计-做图做视频必备_在线设计神器_海量版权素材模板",
+    "url": "hhttps://www.gaoding.com/",
+    "dec": "在线快速图片和视频编辑,不会PS也能搞定设计。海报、简历、PPT、公众号配图、电商等海量模板快速出图。三秒抠图实用便捷,抖音快手热门视频轻松搞定。海量正版授权资源,商用无忧。",
+    "img": "https://st-gdx.dancf.com/assets/20190910-143541-210a.png",
+    "nature": "灵感素材"
+}]

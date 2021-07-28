@@ -1,0 +1,164 @@
+[{
+        "name": "MDN Web Docs",
+        "url": "https://developer.mozilla.org/zh-CN/",
+        "dec": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.",
+        "img": "https://developer.mozilla.org/favicon-48x48.97046865.png",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "花瓣网_陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）",
+        "url": "https://huaban.com/",
+        "dec": "花瓣网, 设计师寻找灵感的天堂！图片素材领导者，帮你采集、发现网络上你喜欢的事物。你可以用它收集灵感,保存有用的素材,计划旅行,晒晒自己想要的东西。",
+        "img": "https://huaban.com/img/logo.svg",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "w3school 在线教程",
+        "url": "https://www.w3school.com.cn/",
+        "dec": "全球最大的中文 Web 技术教程。",
+        "img": "https://www.w3school.com.cn/ui2019/logo-48-red.png",
+        "nature": "web技术",
+        "checked": "false"
+    }, {
+        "name": "Bootstrap中文网",
+        "url": "https://www.bootcss.com/",
+        "dec": "Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
+        "img": "https://cdn.jsdelivr.net/npm/@bootcss/www.bootcss.com@0.0.49/dist/ico/favicon.ico",
+        "nature": "web技术",
+        "checked": "false"
+    }, {
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "dec": "GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
+        "img": "https://github.githubassets.com/pinned-octocat.svg",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "掘金 - 代码不止，掘金不停",
+        "url": "https://juejin.cn/",
+        "dec": "掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货,其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时,掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户,我们相信你也可以在这里有所收获。",
+        "img": "https://juejin.cn/favicons/favicon-32x32.png",
+        "nature": "灵感素材",
+        "checked": "false"
+    },
+    {
+        "name": "站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！",
+        "url": "https://www.zcool.com.cn/",
+        "dec": "站酷 (ZCOOL)，中国设计师互动平台。深耕设计领域十四年，站酷聚集了1200万设计师、摄影师、插画师、艺术家、创意人，设计创意群体中具有较高的影响力与号召力。",
+        "img": "https://static.zcool.cn/git_z/z/common/images/svg/logo.svg",
+        "nature": "分享互动",
+        "checked": "false"
+    }, {
+        "name": "iconfont-阿里巴巴矢量图标库",
+        "url": "https://www.iconfont.cn/",
+        "dec": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
+        "img": "http://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台",
+        "url": "https://leetcode-cn.com/",
+        "dec": "备战技术面试？力扣提供海量技术面试资源，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。",
+        "img": "https://static.leetcode-cn.com/cn-mono-assets/production/assets/favicon-notification-16x16.123721dc.png",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "OSCHINA - 中文开源技术交流社区",
+        "url": "https://www.oschina.net/",
+        "dec": "OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台",
+        "img": "https://static.oschina.net/new-osc/img/favicon.ico",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "Gitee - 基于 Git 的代码托管和研发协作平台",
+        "url": "https://gitee.com/",
+        "dec": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。",
+        "img": "https://assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "博客园 - 开发者的网上家园",
+        "url": "https://www.cnblogs.com/",
+        "dec": "博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。。",
+        "img": "https://common.cnblogs.com/favicon.svg",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "UICN用户体验设计平台",
+        "url": "https://www.ui.cn/",
+        "dec": "UI中国用户体验平台,中国用户体验联盟理事单位。国内极具影响力的设计平台之一。十多年来,携手会员150万+,共同致力于为设计师与企业搭建健康的设计生态！",
+        "img": "https://s6.ui.cn/img/yearlogo.png",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "大作——找灵感，用大作",
+        "url": "https://www.bigbigwork.com/",
+        "dec": "大作是专为各行业设计师度身定制的设计灵感搜索引擎，聚合全球众多知名设计网站，目前在库21.2亿创意设计、设计素材、摄影大图，并且保持每日更新量在25万张以上。无论是寻找设计素材、意境图、灵感图、参考作品、提案配图、购买版权图、设计完稿，都可通过大作达成目的。",
+        "img": "https://jhk-weixin-xcx.oss-cn-hangzhou.aliyuncs.com/pimg/favicon.ico",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "堆糖，美图壁纸兴趣社区",
+        "url": "https://www.duitang.com/",
+        "dec": "堆糖，美图壁纸兴趣社区。收录几十亿高清优质图片，数千万用户的珍藏分享，一键收藏下载美图，点亮生活无限灵感，做你的美好研究所：拥有高清壁纸、情侣头像、明星爱豆、影视动漫、情感文字、表情包、绘画手帐、P图教程、美妆穿搭、歌词台词、可爱萌宠等多种图片分类。你想要的风景壁纸、聊天背景、朋友圈背景、动漫头像都可以在这里找到。",
+        "img": "https://c-ssl.duitang.com/uploads/icons/duitang_favicon.ico",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "涂鸦王国_插画师作品_涂鸦王国gracg.com",
+        "url": "https://www.gracg.com/",
+        "dec": "涂鸦王国_插画师作品",
+        "img": "https://photo7n.gracg.com/gracg_favicon.ico",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "普象网_普象工业设计小站_工业产品创意设计_原创分享交流",
+        "url": "hhttps://www.puxiang.com/",
+        "dec": "普象工业设计小站与180万设计师分享你的原创设计；普象官网提供丰富设计学习资料、红点设计作品、IF大奖优秀作品、设计手绘稿、产品设计细节图、全球新设计产品图、设计师原创设计分享交流；全球优秀设计产品分享，帮助设计师提升眼界、开阔视野。",
+        "img": "https://static.puxiang.com/assets/web/images/seo_logo.jpg",
+        "nature": "灵感素材",
+        "checked": "false"
+    }, {
+        "name": "稿定设计-做图做视频必备_在线设计神器_海量版权素材模板",
+        "url": "hhttps://www.gaoding.com/",
+        "dec": "在线快速图片和视频编辑,不会PS也能搞定设计。海报、简历、PPT、公众号配图、电商等海量模板快速出图。三秒抠图实用便捷,抖音快手热门视频轻松搞定。海量正版授权资源,商用无忧。",
+        "img": "https://st-gdx.dancf.com/assets/20190910-143541-210a.png",
+        "nature": "灵感素材"
+    }, {
+        "name": "UECOOK设计社区 - 创意 - 兴趣",
+        "url": "http://uecook.com/",
+        "dec": "UECOOK，交流UIUX、平面设计、插画、空间设计、工业设计、产品设计、数码艺术、传统艺术、时尚和摄影等设计方向，提供原创发布、图片采集收藏、个人主页建站等核心功能",
+        "img": "hhttps://st-gdx.dancf.com/assets/20190910-143541-210a.png",
+        "nature": "灵感素材"
+    }, {
+        "name": "稿定设计-做图做视频必备_在线设计神器_海量版权素材模板",
+        "url": "hhttps://www.gaoding.com/",
+        "dec": "在线快速图片和视频编辑,不会PS也能搞定设计。海报、简历、PPT、公众号配图、电商等海量模板快速出图。三秒抠图实用便捷,抖音快手热门视频轻松搞定。海量正版授权资源,商用无忧。",
+        "img": "https://st-gdx.dancf.com/assets/20190910-143541-210a.png",
+        "nature": "灵感素材"
+    }, {
+        "name": "w3school 在线教程",
+        "url": "https://www.w3school.com.cn/",
+        "dec": "全球最大的中文 Web 技术教程。",
+        "img": "https://www.w3school.com.cn/ui2019/logo-48-red.png",
+        "nature": "web技术"
+    }, {
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "dec": "GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
+        "img": "https://github.githubassets.com/pinned-octocat.svg",
+        "nature": "灵感素材"
+    }, {
+        "name": "掘金 - 代码不止，掘金不停",
+        "url": "https://juejin.cn/",
+        "dec": "掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货,其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时,掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户,我们相信你也可以在这里有所收获。",
+        "img": "https://juejin.cn/favicons/favicon-32x32.png",
+        "nature": "灵感素材"
+    }, {
+        "name": "稿定设计-做图做视频必备_在线设计神器_海量版权素材模板",
+        "url": "hhttps://www.gaoding.com/",
+        "dec": "在线快速图片和视频编辑,不会PS也能搞定设计。海报、简历、PPT、公众号配图、电商等海量模板快速出图。三秒抠图实用便捷,抖音快手热门视频轻松搞定。海量正版授权资源,商用无忧。",
+        "img": "https://st-gdx.dancf.com/assets/20190910-143541-210a.png",
+        "nature": "灵感素材"
+    }
+]

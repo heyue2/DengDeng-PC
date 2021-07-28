@@ -1,0 +1,25 @@
+[{
+    "name": "w3school 在线教程",
+    "url": "https://www.w3school.com.cn/",
+    "dec": "全球最大的中文 Web 技术教程。",
+    "img": "https://www.w3school.com.cn/ui2019/logo-48-red.png",
+    "nature": "web技术"
+}, {
+    "name": "GitHub",
+    "url": "https://github.com/",
+    "dec": "GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
+    "img": "https://github.githubassets.com/pinned-octocat.svg",
+    "nature": "灵感素材"
+}, {
+    "name": "掘金 - 代码不止，掘金不停",
+    "url": "https://juejin.cn/",
+    "dec": "掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货,其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时,掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户,我们相信你也可以在这里有所收获。",
+    "img": "https://juejin.cn/favicons/favicon-32x32.png",
+    "nature": "灵感素材"
+}, {
+    "name": "稿定设计-做图做视频必备_在线设计神器_海量版权素材模板",
+    "url": "hhttps://www.gaoding.com/",
+    "dec": "在线快速图片和视频编辑,不会PS也能搞定设计。海报、简历、PPT、公众号配图、电商等海量模板快速出图。三秒抠图实用便捷,抖音快手热门视频轻松搞定。海量正版授权资源,商用无忧。",
+    "img": "https://st-gdx.dancf.com/assets/20190910-143541-210a.png",
+    "nature": "灵感素材"
+}]
